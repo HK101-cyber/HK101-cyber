@@ -1,4 +1,4 @@
-# Hammad Khan — Cybersecurity Professional
+# Hammad Khan - Cybersecurity Professional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hammad--khan101-blue?logo=linkedin)](https://linkedin.com/in/hammad-khan101)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com)
