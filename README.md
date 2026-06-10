@@ -36,7 +36,7 @@ Through hands-on labs, cybersecurity simulations, and continuous learning, I’v
 
 | # | Project | Focus | Status |
 |---|---------|-------|--------|
-| 1 | [SOC Home Lab](https://github.com/HK101-cyber/soc-home-lab) | ELK · Splunk · Wazuh SIEM | 🔨 Building |
+| 1 | [SOC Home Lab](https://github.com/HK101-cyber/soc-home-lab) | ELK STACK · SEIM  | Completed |
 | 2 | [Splunk SIEM Lab](https://github.com/HK101-cyber/splunk-siem-lab) | SPL · Dashboards · Detection | 🔨 Building |
 | 3 | [Wazuh XDR Lab](https://github.com/HK101-cyber/wazuh-xdr-lab) | XDR · FIM · Active Response | 🔨 Building |
 | 4 | [Pentest Reports](https://github.com/HK101-cyber/pentest-reports) | Web App · OWASP WSTG | 🔨 Building |
