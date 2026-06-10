@@ -4,12 +4,30 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com)
 
 ## 👨‍💻 About Me
-Self-driven cybersecurity professional specializing in **SOC Engineering**, 
-**Penetration Testing**, and **Compliance**. 17+ certifications. 
-Building a full hands-on portfolio — every repo below is a real working lab.
+
+**SOC Analyst | Threat Hunter | Cybersecurity Professional | Pentester**
+
+I am a cybersecurity professional passionate about understanding how systems are attacked, monitored, and defended. My focus is on:
+
+- Security Operations (SOC)
+- Threat Hunting
+- Incident Response
+- SIEM Engineering
+- Vulnerability Assessment
+- Penetration Testing
+
+Through hands-on labs, cybersecurity simulations, and continuous learning, I’ve built practical experience working with:
+
+- ELK Stack
+- Wazuh
+- Splunk
+- Linux
+- Active Directory
+- SCADA/ICS environments
+- Cloud technologies
 
 📍 Remote — Pakistan &nbsp;|&nbsp; 
-📧 hammad.k.sec@email.com &nbsp;|&nbsp; 
+📧 [hammad.k.sec@email.com](mailto:hammad.k.sec@email.com) &nbsp;|&nbsp; 
 🟢 Open to remote roles & freelance
 
 ---
@@ -33,26 +51,45 @@ Building a full hands-on portfolio — every repo below is a real working lab.
 
 ## 🛠️ Technical Stack
 
-**Blue Team:** Elastic SIEM · Splunk · Wazuh · KQL · SPL · Sysmon · MITRE ATT&CK  
-**Red Team:** Burp Suite · Metasploit · Nmap · BloodHound · Hashcat · Hydra  
-**Compliance:** ISO 27001:2022 · PCI DSS v4.0 · NIST 800-82 · ISO 27019  
-**Systems:** Linux · Python · Bash · RHEL · Docker · Git  
-**IAM:** RBAC · PAM · Zero Trust · Active Directory  
+**Blue Team:**  
+Elastic SIEM · Splunk · Wazuh · KQL · SPL · Sysmon · MITRE ATT&CK  
+
+**Red Team:**  
+Burp Suite · Metasploit · Nmap · BloodHound · Hashcat · Hydra  
+
+**Compliance:**  
+ISO 27001:2022 · PCI DSS v4.0 · NIST 800-82 · ISO 27019  
+
+**Systems:**  
+Linux · Python · Bash · RHEL · Docker · Git  
+
+**IAM:**  
+RBAC · PAM · Zero Trust · Active Directory  
 
 ---
 
 ## 📜 Certifications (17+ | Al Nafi Institute)
-`Elasticsearch SOC Engineer` `Threat Hunting & Observability` `Network Pentesting`  
-`Web App Pentesting (WSTG)` `Ethical Hacking & IR` `SCADA ICS Security`  
-`ISO 27001/27017/27018` `PCI DSS QSA` `Linux Deep Dive` `Python Deep Dive`  
-`RHEL SysOps` `CISSP-Aligned` + more
+
+`Elasticsearch SOC Engineer`  
+`Threat Hunting & Observability`  
+`Network Pentesting`  
+`Web App Pentesting (WSTG)`  
+`Ethical Hacking & IR`  
+`SCADA ICS Security`  
+`ISO 27001/27017/27018`  
+`PCI DSS QSA`  
+`Linux Deep Dive`  
+`Python Deep Dive`  
+`RHEL SysOps`  
+`CISSP-Aligned`  
++ more
 
 ---
 
 ## 📈 GitHub Stats
+
 ![Hammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HK101-cyber&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
-*Every project in this portfolio is built in a real lab environment — 
-command by command, with professional documentation and GitHub evidence.*
+*Every project in this portfolio is built in a real lab environment — command by command, with professional documentation and GitHub evidence.*
