@@ -37,12 +37,12 @@ Through hands-on labs, cybersecurity simulations, and continuous learning, I’v
 | # | Project | Focus | Status |
 |---|---------|-------|--------|
 | 1 | [SOC Home Lab](https://github.com/HK101-cyber/soc-home-lab) | ELK STACK · SEIM . winlogbeat . Sysmon | Completed |
-| 2 | [Splunk SIEM Lab](https://github.com/HK101-cyber/splunk-siem-lab) | SPL · Dashboards · Detection | 🔨 Building |
+| 2 | [Splunk SIEM Lab](https://github.com/HK101-cyber/splunk-siem-lab) | SPL · Dashboards · Detection | Completed|
 | 3 | [Wazuh XDR Lab](https://github.com/HK101-cyber/wazuh-xdr-lab) | XDR · FIM · Active Response | 🔨 Building |
 | 4 | [Pentest Reports](https://github.com/HK101-cyber/pentest-reports) | Web App · OWASP WSTG | 🔨 Building |
 | 5 | [Network Pentest Lab](https://github.com/HK101-cyber/network-pentest-lab) | Metasploit · Nmap · Kill Chain | 🔨 Building |
 | 6 | [AD Attack & Defense](https://github.com/HK101-cyber/ad-attack-defense) | BloodHound · Kerberoasting | 🔨 Building |
-| 7 | [Linux Hardening Lab](https://github.com/HK101-cyber/linux-hardening-lab) | CIS Benchmarks · Lynis | 🔨 Building |
+| 7 | [Linux Hardening Lab](https://github.com/HK101-cyber/linux-hardening-lab) | CIS Benchmarks · Lynis | Completed |
 | 8 | [Security Scripts](https://github.com/HK101-cyber/security-scripts) | Python · Automation · APIs | 🔨 Building |
 | 9 | [Compliance Projects](https://github.com/HK101-cyber/compliance-projects) | ISO 27001 · PCI DSS · GRC | 🔨 Building |
 | 10 | [SCADA Security Lab](https://github.com/HK101-cyber/scada-security-lab) | ICS · Modbus · NIST 800-82 | 🔨 Building |
